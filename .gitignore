@@ -1,0 +1,57 @@
+# Ignore meta files that Unity generates
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore auto-generated files
+UserSettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Visual Studio Code workspace
+.vscode/
+
+# Ignore crash reports and logs
+*.stacktrace
+*.log
+
+# Ignore Build folders (output files that can be recreated)
+Builds/
+Build/
+
+# Large asset files to ignore (add more as needed)
+*.wav
+*.mp4
+*.psd
+*.fbx
+*.tga
+*.tif
+*.tiff
+
+# Optional: Git LFS configuration for specific file types (uncomment if using Git LFS)
+# *.psd
+# *.wav
+# *.mp4
+# *.fbx
+# *.tga
+# *.tif
+# *.tiff
